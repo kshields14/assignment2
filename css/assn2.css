@@ -1,0 +1,51 @@
+body
+{
+  font-family: verdana;
+}
+
+p
+{
+  font-size: 11pt;
+}
+
+h2
+{
+  text-align: center;
+  color: #FF7F50;
+  font-weight: bolder;
+}
+
+h3
+{
+  text-align: center;
+  font-weight: normal;
+}
+
+h5
+{
+  text-align: left;
+  text-decoration: underline;
+}
+
+.question
+{
+  font-size: 10pt;
+}
+
+#header_img
+{
+  width: 100%;
+}
+
+button
+{
+  background-color: #f49242;
+  color: white;
+  font-size: 20pt;
+  align-self: center;
+}
+
+footer
+{
+  font-size: 8pt;
+}
